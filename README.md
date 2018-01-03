@@ -4,20 +4,20 @@
 
 ## Models
 
--post -> date: date rational:text
--User -> Devise
--AdminUser -> STI
+- post -> date: date rational:text
+- User -> Devise
+- AdminUser -> STI
 
 
 ## Features
-Appval workflow
-SMS sending -> linked to approval or overtime input
-Administrative admin dashbord
-Email summary to manager for approval
-Needs to be documented if employee did not log overtime
+- Appval workflow
+- SMS sending -> linked to approval or overtime input
+- Administrative admin dashbord
+- Email summary to manager for approval
+- Needs to be documented if employee did not log overtime
 
 ## UI:
- Bootdtrap -> formating
+ - Bootdtrap -> formating
 
 
 
